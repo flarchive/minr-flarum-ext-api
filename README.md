@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of minr/flarum-ext-api.** Not for installation: use [Packagist](https://packagist.org/packages/minr/flarum-ext-api) or the [upstream repository](https://github.com/minr/flarum-ext-api).
 
-**0** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/minr-flarum-ext-api/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^0.1.0-beta.9`
+**5** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/minr-flarum-ext-api/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^0.1.0-beta.9`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2020-01-08 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/minr-flarum-ext-api/tree/archive/v0.1.0) |
+| `v0.1.1` | 2020-01-27 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/minr-flarum-ext-api/tree/archive/v0.1.1) |
+| `v0.1.2` | 2020-01-27 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/minr-flarum-ext-api/tree/archive/v0.1.2) |
+| `v0.1.3` | 2020-02-06 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/minr-flarum-ext-api/tree/archive/v0.1.3) |
+| `v0.1.4` | 2020-03-03 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/minr-flarum-ext-api/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/minr-flarum-ext-api.json](https://github.com/flarchive/archive-index/blob/main/packages/minr-flarum-ext-api.json)
 
